@@ -1,0 +1,85 @@
+/* headings */
+body {
+  font-family: "Roboto";
+}
+
+/* navbar */
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+/* intro */
+.colored-intro {
+  background-color: #F25764;
+  color: #fff;
+}
+
+.bird-image {
+  width: 70%;
+  margin: auto;
+  display: block;
+}
+
+.big-heading {
+  font-weight: 900;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+
+.we-are {
+  text-indent: 30px;
+}
+
+.intro-end {
+  text-align: right;
+}
+
+
+
+/* services */
+.white-section {
+  text-align: center;
+}
+
+.feature-title {
+  font-weight: 900;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.feature-icon {
+  color: #F25764;
+  margin-bottom: 1rem;
+}
+
+.card {
+  background-color: #ECECEC;
+}
+
+.features-heading {
+  padding: 5%;
+}
+
+/* work exampeles */
+.work-examples {
+  background-color: #324759;
+  padding: 1%;
+  color: #fff;
+  text-align: center;
+}
+
+.examples-column {
+  padding-top: 5%;
+}
+
+/* footer */
+.footer-end {
+  background-color: #fff;
+  text-align: center;
+  position: relative;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
